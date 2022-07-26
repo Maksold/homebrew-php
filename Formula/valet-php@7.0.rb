@@ -47,7 +47,7 @@ class ValetPhpAT70 < Formula
    # PHP build system ICU70 fails
    # see https://github.com/php/php-src/pull/7596
   patch :p0 do
-    url "https://raw.githubusercontent.com/henkrehorst/homebrew-php/master/Patches/php70-icu70.patch"
+    url "https://raw.githubusercontent.com/maksold/homebrew-php/master/Patches/php70-icu70.patch"
     sha256 "f87421fc2d9e0a68eb9b9b280b9ba86ed45927f918f74f73593e08920cf17377"
   end
 

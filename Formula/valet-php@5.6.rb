@@ -43,7 +43,7 @@ class ValetPhpAT56 < Formula
   patch :DATA
 
   patch do
-    url "https://raw.githubusercontent.com/henkrehorst/homebrew-php/master/Patches/openssl.patch"
+    url "https://raw.githubusercontent.com/maksold/homebrew-php/master/Patches/openssl.patch"
     sha256 "c4deaa565f259b460cc28b7771f03a2ca2d8d15fd767c37443b20c6f7ba94746"
   end
 

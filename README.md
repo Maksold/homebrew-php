@@ -1,6 +1,10 @@
 # Homebrew-php
 
-To add tap, run `brew tap henkrehorst/homebrew-php`
+Remove default tap and add forked tap
+```
+brew untap henkrehorst/homebrew-php
+brew tap maksold/homebrew-php
+```
 
 <h4>PHP versions available</h4>
 
